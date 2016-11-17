@@ -1,15 +1,7 @@
 {
   "apps": [
     {
-      "serverURL": "https://vmt-irp.herokuapp.com/parse",
-      "appId": "volume-measurement-tool",
-      "javascriptKey": "myJavascriptKey",
-      "restKey": "myRestKey",
-      "appName": "Volume Measurement Tool",
-      "production": true
-    },
-    {
-      "serverURL": "https://vmt-irp.herokuapp.com/parse",
+      "serverURL": "http://localhost:1337/parse",
       "appId": "volume-measurement-tool",
       "masterKey": "vmt",
       "appName": "Volume Measurement Tool"
